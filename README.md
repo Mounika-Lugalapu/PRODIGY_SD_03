@@ -6,11 +6,11 @@ A project that allows users to store and manage contact information. The project
 
 Prerequisites : Eclipse IDE , MYSQL Database or XAMPP , Any Os !
 
-Extract the ContactManagementsystems.zip file in your Machine
-Download and Open Eclipse IDE
-Import the Project(ContactManagementsystems) into the Eclipse IDE.
-Create a Database named as contact
-Create a Table - contacts
-Then , Create a Columns ID(AI) , First Name, Last Name , Phone Number , Email -- These are the columns in the Database
-Run the main.java File in the Eclipse 
+1. Extract the ContactManagementsystems.zip file in your Machine
+2. Download and Open Eclipse IDE
+3. Import the Project(ContactManagementsystems) into the Eclipse IDE.
+4. Create a Database named as contact
+5. Create a Table - contacts
+6. Then , Create a Columns ID(AI) , First Name, Last Name , Phone Number , Email -- These are the columns in the Database
+7. Run the main.java File in the Eclipse 
 You will get the Output .
